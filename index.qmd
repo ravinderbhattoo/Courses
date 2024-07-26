@@ -1,0 +1,5 @@
+---
+title: "List of courses"
+---
+
+[IITI CE-605](courses/iiti-ce-605/index.html)

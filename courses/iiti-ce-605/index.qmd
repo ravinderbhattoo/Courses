@@ -1,0 +1,8 @@
+---
+title: "IITI CE-605"
+---
+
+Structural Health Monitoring and Reliability Assesment
+
+- [Notice Board](nb.html)
+- [Links](links.html)
