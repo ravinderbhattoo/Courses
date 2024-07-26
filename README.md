@@ -1,2 +1,3 @@
-# IITI-CE605
-SHM and reliability assesment
+# List of courses
+
+IITI-CE605
